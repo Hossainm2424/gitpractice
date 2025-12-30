@@ -1,4 +1,1 @@
 Hello Let's learn git command 
-This will be the second commit 
-This will be thrid commit
-
