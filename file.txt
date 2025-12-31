@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 commit one test
 commit two test
 commit three test
-=======
-commit one test
->>>>>>> parent of 38d55d1 (test2)
